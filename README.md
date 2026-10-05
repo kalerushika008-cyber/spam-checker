@@ -28,4 +28,4 @@ The app counts words in spam and non-spam messages and uses Naive Bayes
 probability to guess which group a new message belongs to.
 
 ## Tech stack
-Python · Streamlit · pandas · numpy
+Python · Streamlit · pandas · numpy# spam-checker
